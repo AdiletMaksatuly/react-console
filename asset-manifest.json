@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react-console/static/css/main.31d6cfe0.css",
+    "main.js": "/react-console/static/js/main.a8d17462.js",
+    "index.html": "/react-console/index.html",
+    "main.a8d17462.js.map": "/react-console/static/js/main.a8d17462.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a8d17462.js"
+  ]
+}
